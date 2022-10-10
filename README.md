@@ -13,7 +13,10 @@ I'm a self-taught passionate FrontEnd developer from China
 
 - 📫 How to reach me: lijiayan@redrock.team
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lijiayan921&theme=dracula" alt="My github stats" height="185px"/></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiayan921&layout=compact&langs_count=8&theme=dracula&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/></a> 
+</div>
+
 
 ## 🛠  Technologies and tools
 <p>
