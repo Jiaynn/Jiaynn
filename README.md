@@ -31,7 +31,7 @@ I'm a self-taught passionate FrontEnd developer from China
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 </p>
- ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+ .[![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvana-Jie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
