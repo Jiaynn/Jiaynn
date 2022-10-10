@@ -20,8 +20,7 @@ I'm a self-taught passionate FrontEnd developer from China
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lijiayan921&theme=dracula" alt="My github stats" height="185px"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiayan921&layout=compact&langs_count=8&theme=dracula&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/></a> |
-| ------------- | ------------- 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lijiayan921&theme=dracula" alt="My github stats" height="185px"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiayan921&layout=compact&langs_count=8&theme=dracula&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/></a> 
 
 
 
