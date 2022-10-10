@@ -15,7 +15,7 @@ I'm a self-taught passionate FrontEnd developer from China
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lijiayan921&theme=dracula" alt="My github stats" height="185px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiayan921&layout=compact&langs_count=8&theme=dracula&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiayan921&layout=compact&langs_count=8&theme=dracula&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/><img src="https://github-readme-stats.vercel.app/api?username=lijiayan921&theme=dracula" alt="My github stats" height="185px"/>
 </div>
 
 
