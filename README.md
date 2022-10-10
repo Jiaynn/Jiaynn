@@ -14,14 +14,7 @@ I'm a self-taught passionate FrontEnd developer from China
 - 📫 How to reach me: lijiayan@redrock.team
 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lijiayan921&theme=dracula" alt="My github stats" height="185px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiayan921&layout=compact&langs_count=8&theme=dracula&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/>
-</div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lijiayan921&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&hide_border=true"  height="185px"/></a> 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lijiayan921&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiayan921&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 🛠  Technologies and tools
