@@ -3,7 +3,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from China 
+**I'm a self-taught passionate FrontEnd developer from China**
 
 ## About me 👋
 
