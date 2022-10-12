@@ -13,6 +13,7 @@
 
 - 📫 How to reach me: lijiayan@redrock.team
 
+- 📚 juejin(掘金)：https://juejin.cn/user/770074401581224/posts
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lijiayan921&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiayan921&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
