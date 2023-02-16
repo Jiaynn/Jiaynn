@@ -7,11 +7,11 @@
 
 ## About me 👋
 
--  🚀 I’m currently working on RedrockTeam.
+-  🚀 I’m currently working on qiniu.
 
 - ❤️ I love react and more front-end knowledge
 
-- 📫 How to reach me: lijiayan@redrock.team
+- 📫 How to reach me: lijiayan@qiniu.com
 
 - 📚 juejin(掘金)：https://juejin.cn/user/770074401581224/posts
 
