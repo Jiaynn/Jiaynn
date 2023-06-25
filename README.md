@@ -11,7 +11,7 @@
 
 - ❤️ I love react and more front-end knowledge
 
-- 📫 How to reach me: lijiayan@qiniu.com
+- 📫 How to reach me: lijiayan921@gmail.com
 
 - 📚 juejin(掘金)：https://juejin.cn/user/770074401581224/posts
 
